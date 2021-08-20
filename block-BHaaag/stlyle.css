@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(5, 5, 145);
+}
+h1 {
+  color: beige;
+}
+a {
+    color: bisque;
+    word-spacing: 30px;
+}
+h2 {
+    color: rgb(30, 230, 30);
+}
+h3 {
+    color: white;
+}
+p {
+    color: white;
+}
+.space {
+    word-spacing: 30px;
+    color: red;
+}

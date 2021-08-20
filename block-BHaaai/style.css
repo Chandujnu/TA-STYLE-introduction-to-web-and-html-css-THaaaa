@@ -1,0 +1,30 @@
+body {
+    background-color: rgb(16, 16, 151);
+    text-align: center;
+}
+h1 {
+    color: cornsilk;
+    text-align: center;
+}
+h3 {
+    color: white;
+    text-align: left;
+}
+p {
+    color: white;
+    text-align: left;
+}
+h2 {
+    color: rgb(5, 214, 5);
+    text-align: left;
+}
+a {
+    color: red;
+    
+}
+img {
+    text-align: center;
+}
+.footer {
+    background-color: rgb(5, 5, 83);
+}
